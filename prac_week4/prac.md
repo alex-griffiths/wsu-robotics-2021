@@ -66,3 +66,5 @@ Yes the turtle is still turning the full 360 degrees. It is doing it repeatedly 
 ![4.2](4.2.png)
 
 ![4.5](4.5.png)
+
+Yes I do think that it has properly overlaid because `my_pkg_1` is now available as a package for the `my_ws_1_overlay` workspace.
