@@ -1,0 +1,8 @@
+prefix=/home/alex/pub_sub_ws/devel
+
+Name: cust_msg_pub
+Description: Description of cust_msg_pub
+Version: 0.0.0
+Cflags: -I/home/alex/pub_sub_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

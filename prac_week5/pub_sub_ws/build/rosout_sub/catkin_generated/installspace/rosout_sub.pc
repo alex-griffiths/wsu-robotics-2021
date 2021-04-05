@@ -1,0 +1,8 @@
+prefix=/home/alex/pub_sub_ws/install
+
+Name: rosout_sub
+Description: Description of rosout_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
