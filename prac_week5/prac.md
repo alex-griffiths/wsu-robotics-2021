@@ -32,3 +32,6 @@ The `rosout_pub` node is publishing a `rosgraph_msgs/Log` msg to the `rosout_agg
 ![3.2.a](3.2.a.png)
 
 ![3.2.b](3.2.b.png)
+
+![cust_pub](cust_pub.png)
+![cust_sub](cust_sub.png)
