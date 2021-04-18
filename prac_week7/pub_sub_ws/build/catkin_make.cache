@@ -1,0 +1,2 @@
+cust_msg_pub:cust_msg_sub:custom_msg_vect:custom_msg_vect_sub:rosout_pub:rosout_sub:srv_vect
+-DCATKIN_DEVEL_PREFIX=/home/alex/pub_sub_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alex/pub_sub_ws/install -G Unix Makefiles

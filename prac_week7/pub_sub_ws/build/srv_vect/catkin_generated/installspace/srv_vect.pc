@@ -1,0 +1,8 @@
+prefix=/home/alex/pub_sub_ws/install
+
+Name: srv_vect
+Description: Description of srv_vect
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

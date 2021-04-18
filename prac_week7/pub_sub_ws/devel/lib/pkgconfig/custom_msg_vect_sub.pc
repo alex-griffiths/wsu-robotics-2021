@@ -1,0 +1,8 @@
+prefix=/home/alex/pub_sub_ws/devel
+
+Name: custom_msg_vect_sub
+Description: Description of custom_msg_vect_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
