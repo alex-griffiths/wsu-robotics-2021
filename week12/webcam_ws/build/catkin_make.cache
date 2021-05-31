@@ -1,0 +1,2 @@
+chapter3_tutorials:driver_base:driver_common:timestamp_tools
+-DCATKIN_DEVEL_PREFIX=/home/alex/webcam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alex/webcam_ws/install -G Unix Makefiles

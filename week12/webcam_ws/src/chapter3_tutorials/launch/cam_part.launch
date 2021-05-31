@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+  <!-- Example 10 -->
+  <node pkg="chapter3_tutorials" type="cam_part" name="cam_part"
+        output="screen"/>
+
+  <node pkg="rviz" type="rviz" name="rviz"
+        args="-d $(find chapter3_tutorials)/config/cam_part.rviz"/>
+</launch>
+

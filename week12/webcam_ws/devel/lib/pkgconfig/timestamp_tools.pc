@@ -1,0 +1,8 @@
+prefix=/home/alex/webcam_ws/devel
+
+Name: timestamp_tools
+Description: Description of timestamp_tools
+Version: 1.6.8
+Cflags: -I/home/alex/webcam_ws/src/timestamp_tools/include
+Libs: -L${prefix}/lib 
+Requires: roslib roscpp
